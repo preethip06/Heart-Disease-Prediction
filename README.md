@@ -10,7 +10,7 @@ Objective:
 Build and evaluate predictive models that can accurately classify individuals as having heart disease or being healthy, using a dataset of historical patient data.
 
 Dataset:
-You will be provided with a dataset containing a variety of features related to patients' medical history and lifestyle, such as age, gender, blood pressure, cholesterol levels, ECG readings, and exercise habits. Each patient in the dataset is labeled as either having heart disease (positive class) or being healthy (negative class).
+The dataset contains a variety of features related to patients' medical history and lifestyle, such as age, gender, blood pressure, cholesterol levels, ECG readings, and exercise habits. Each patient in the dataset is labeled as either having heart disease (positive class) or being healthy (negative class).
 
 Models Used:
 1. k-Nearest Neighbors (KNN) Model:
